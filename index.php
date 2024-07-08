@@ -11,7 +11,6 @@
     <div class="container my-5">
         <h2> List of Students</h2>
         <a class="btn btn-primary" href="/crud_app/students/create.php" role="button">New student</a>
-        <a class="btn btn-secondary" href="/crud_app/students/refresh.php" role="button">Refresh ID</a>
         <br>
         <table class="table">
             <thead>
